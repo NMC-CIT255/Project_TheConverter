@@ -1,0 +1,4 @@
+﻿Inches,true,1
+Feet,false,12
+Yards,false,36
+Miles,false,63360

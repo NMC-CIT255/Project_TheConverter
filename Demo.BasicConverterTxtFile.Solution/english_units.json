@@ -1,0 +1,22 @@
+[
+  {
+    "UnitName":"Inches",
+    "UnitConversionReference":"true",
+    "UnitConversionFactor":1
+  },
+  {
+    "UnitName":"Feet",
+    "UnitConversionReference":"false",
+    "UnitConversionFactor":12
+  },
+  {
+    "UnitName":"Yards",
+    "UnitConversionReference":"false",
+    "UnitConversionFactor":36
+  },
+  {
+    "UnitName":"Miles",
+    "UnitConversionReference":"false",
+    "UnitConversionFactor":63360
+  }
+]
